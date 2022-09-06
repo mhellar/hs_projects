@@ -1207,7 +1207,7 @@ color:#0a0a0a;
 
 
 figure {
-  animation:wobble 5s ease-in-out infinite;
+  animation:wobble 10ss ease-in-out infinite;
   transform-origin:center center;
   transform-style:preserve-3d;
 }
@@ -1258,4 +1258,6 @@ figure {
 .intro:nth-child(7){ transform:translateZ(30px); }
 .intro:nth-child(8){ transform:translateZ(35px); }
 .intro:nth-child(9){ transform:translateZ(40px); }
-.intro:nth-child(10){ transform:translateZ(45px); }*/
+.intro:nth-child(10){ transform:translateZ(45px); }*
+
+
